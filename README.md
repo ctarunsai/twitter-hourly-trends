@@ -3,6 +3,7 @@ This is a command-line tool for getting hourly (Top 50) trending hashtags
 
 ## Installation:
 * Just Clone the repository using the below command:
+
    `git clone 'https://github.com/ctarunsai/twitter-hourly-trends.git'`
 
 ## Usage:
