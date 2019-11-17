@@ -6,7 +6,7 @@ This tool can be used by both Linux and Mac Users.
 
 # Command 1: 
 
-**python3 getDayTrendsv2.py -h
+**python3 getDayTrendsv2.py -h**
 
 The above command gives output as below:
 
@@ -32,10 +32,10 @@ This program has 2 positional arguments and 4 optional arguments
 
 # Command 2: 
 
-**python3 getDayTrendsv2.py 2019-10-15 2019-10-16
+**python3 getDayTrendsv2.py 2019-10-15 2019-10-16**
 
 The above command gives the top 50 trending hashtags per hour over the given period
 
 # Issue: 
 
-* *It is not working for current date i.e., it'll work for all past days except current day
+* *It is not working for current date i.e., it'll work for all past days except current day* *
