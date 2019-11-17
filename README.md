@@ -62,4 +62,4 @@ The output will be written directly to a file named "<date>.tsv" and the file co
 
 # Issue: 
 
-* *It is not working for current date i.e., it'll work for all past days except current day* *
+* *It is not working for current date i.e., it'll work for all past days except current day*
