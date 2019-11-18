@@ -69,3 +69,4 @@ The output will be written directly to a file named "<date>.tsv" and the file co
         - *If for suppose period is 2019-10-15 2019-10-16 then two files will be created with names 2019-10-15.tsv and 2019-10-16.tsv and these contains the hourly top 50 trends in the above mentioned format*
 # Issue: 
 * *It is not working for current date i.e., it'll work for all past days except current day*
+* *Currently working for only india*
